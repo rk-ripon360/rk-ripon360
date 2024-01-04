@@ -1,7 +1,7 @@
 <img src="./img/profile.jpg" width="100%"/>
 <h1 align="center">Hi 👋, I'm RK Ripon</h1>
 <h3 align="center">A passionate frontend developer .</h3>
-<img align="right" width="400" height="400" src="./img/web-dev.gif"/>
+<img align="right" width="400" height="300" src="./img/web-dev.gif"/>
 - 🌱 I’m currently learning **Node js**
 
 - 💬 Ask me about **React**
