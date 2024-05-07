@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm RK Ripon</h1>
 <h3 align="center">A passionate frontend developer .</h3>
 <img align="right" width="400" height="300" src="./img/web-dev.gif"/>
-- 🌱 I’m currently learning **Node js**
+- 🌱 I’m currently learning **Phython**
 
 - 💬 Ask me about **React**
 
