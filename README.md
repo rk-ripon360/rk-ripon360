@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **React**
 
-- 📫 How to reach me **rk.ripon.rkr@gmail.com**
+- 📫 How to reach me **rk.ripon.360rkr@gmail.com**
 
 - ⚡ Fun fact **I think I am funny.**
 
