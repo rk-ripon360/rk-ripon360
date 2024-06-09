@@ -1,14 +1,14 @@
-<img src="./img/profile.jpg" width="100%"/>
-<h1 align="center">Hi 👋, I'm RK Ripon</h1>
+<img src="https://www.facebook.com/share/HNJg8oN1j42ZkUgd/?mibextid=xfxF2i" width="100%"/>
+<h1 align="center">Hi There👋, I'm RK Ripon</h1>
 <h3 align="center">A passionate frontend developer .</h3>
 <img align="right" width="400" height="300" src="./img/web-dev.gif"/>
 - 🌱 I’m currently learning **Phython**
 
 - 💬 Ask me about **React**
 
-- 📫 How to reach me **rk.ripon.360rkr@gmail.com**
-
 - ⚡ Fun fact **I think I am funny.**
+
+- 📫 How to reach me **rk.ripon.360rkr@gmail.com**
 
 
 ## 🌐 Socials:
