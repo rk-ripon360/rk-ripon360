@@ -1,4 +1,4 @@
-<img src={https://www.facebook.com/share/HNJg8oN1j42ZkUgd/?mibextid=xfxF2i} width="100%"/>
+<img src="./profile.jpg" width="100%"/>
 <h1 align="center">Hi There👋, I'm RK Ripon</h1>
 <h3 align="center">A passionate frontend developer .</h3>
 <img align="right" width="400" height="300" src="./img/web-dev.gif"/>
