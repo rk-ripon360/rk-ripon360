@@ -4,7 +4,7 @@
 <img align="right" width="400" height="300" src="./img/web-dev.gif"/>
 - 🌱 I’m currently learning **Phython**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **React Js / Next Js**
 
 - ⚡ Fun fact **I think I am funny.**
 
