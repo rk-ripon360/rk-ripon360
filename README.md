@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **React Js / Next Js**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **I think I am funny.**
 
 - 📫 How to reach me **rk.ripon.360rkr@gmail.com**
 
